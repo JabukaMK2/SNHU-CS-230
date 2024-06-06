@@ -13,5 +13,5 @@ Course Competencies
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
 
 CS-30406: Utilize software design templates and patterns to efficiently solve a problem
-CS-30407: Analyze the characteristics of and techniques specific to various systems architectures/li>
+CS-30407: Analyze the characteristics of and techniques specific to various systems architectures
 CS-30408: Evaluate the characteristics, advantages, and weaknesses of various platforms
